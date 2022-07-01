@@ -1,7 +1,7 @@
-import Hello from '~/components/Hello';
+import AppRoutes from './routes';
 
 function App() {
-  return <Hello />;
+  return <AppRoutes />;
 }
 
 export default App;
